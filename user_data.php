@@ -15,8 +15,8 @@ fputcsv($handle, $userInput);
 
 fclose($handle);
 
-echo $name . '<br>';
-echo $email . '<br>';
-echo $DOB . '<br>';
-echo $gender . '<br>';
-echo $country . '<br>';
+print_r($name);
+print_r($email);
+print_r($DOB);
+print_r($gender);
+print_($country);
