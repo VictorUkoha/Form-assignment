@@ -19,4 +19,4 @@ print_r($name);
 print_r($email);
 print_r($DOB);
 print_r($gender);
-print_($country);
+print_r($country);
